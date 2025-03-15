@@ -1,7 +1,7 @@
 ## Hi there, I'm Sri 👋
 
 # 💫 About Me:
-🔭 I have working on UI5, HANA, BTP, Angular, React, Java, Spring, SpringBoot, Nextjs, Express and much more 😊<br><br>🌱 I’m currently learning Websockets and Chrome Extensions<br><br>📫 How to reach me: [Instagram](https://www.instagram.com/srilakshmi_bhat/) [Email](mailto:tmbhatsrilakshmi@gmail.com)<br>
+🔭 I have working on UI5, HANA, BTP, Angular, React, Java, Spring, SpringBoot, Nextjs, Express and much more 😊<br><br>🌱 I’m currently learning Websockets and Chrome Extensions<br><br>📫 How to reach me:<br> [Instagram](https://www.instagram.com/srilakshmi_bhat/) <br> [Email](mailto:tmbhatsrilakshmi@gmail.com)<br>
 
 
 ## 🌐 Socials:
